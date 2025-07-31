@@ -40,7 +40,7 @@ This project implements a deep learning model using **MobileNetV2** for the auto
 
 ## 🧪 Dataset
 
-- **BCCD Dataset** (Blood Cell Count and Detection): [GitHub Link]()
+- **BCCD Dataset** (Blood Cell and Detection): 
 - Images labeled for RBC, WBC, Platelets
 
 ---
