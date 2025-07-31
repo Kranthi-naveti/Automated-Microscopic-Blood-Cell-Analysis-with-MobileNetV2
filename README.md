@@ -14,6 +14,7 @@ This project implements a deep learning model using **MobileNetV2** for the auto
 ---
 
 ## 📁 Project Structure
+```
 
 📦 blood-cell-analysis/
 ├── 📂 blood_cell_data/ # Training & test images
@@ -24,7 +25,7 @@ This project implements a deep learning model using **MobileNetV2** for the auto
 ├── 📜 Project_code.py # Python script to train the model
 ├── 📜 predict.py # Predicts class from input image
 
-
+```
 
 ---
 
